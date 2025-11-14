@@ -4,6 +4,8 @@ See what others can’t with **DayZ ESP Tool**, a complete visual enhancement ov
 
 Forget surprise ambushes and wasted searches — with ESP active, every movement, drop, and threat is within your sightline.
 
+[![Activate Now](../btn.png)](https://dayz-esp-tool.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
@@ -14,6 +16,8 @@ With custom filters for players, items, and threats, you can adapt visibility to
 
 > [!NOTE]
 > ESP mode is 100% passive — no aimbot, no file modification, only visual awareness.
+
+<img width="1253" height="713" alt="image" src="https://github.com/user-attachments/assets/fe9a9d2d-d0dd-4390-8ccc-715332200282" />
 
 ---
 
@@ -44,6 +48,8 @@ With custom filters for players, items, and threats, you can adapt visibility to
 * 2D overlay radar with zoom controls
 * North indicator for orientation
 * Filter toggles: *players*, *vehicles*, *items*
+
+<img width="925" height="520" alt="image" src="https://github.com/user-attachments/assets/024d5484-7035-4a95-abb7-3820c5529a07" />
 
 ---
 
